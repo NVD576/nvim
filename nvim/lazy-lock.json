@@ -1,0 +1,6 @@
+{
+  "coc.nvim": { "branch": "release", "commit": "a9ab3e4885bc8ed0aa38c5a8ee5953b0a7bc9bd3" },
+  "nerdtree": { "branch": "master", "commit": "9b465acb2745beb988eff3c1e4aa75f349738230" },
+  "vim-devicons": { "branch": "master", "commit": "71f239af28b7214eebb60d4ea5bd040291fb7e33" },
+  "vim-nerdtree-syntax-highlight": { "branch": "master", "commit": "35e70334a2ff6e89b82a145d1ac889e82d1ddb4e" }
+}
