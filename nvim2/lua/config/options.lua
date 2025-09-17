@@ -1,9 +1,0 @@
-vim.o.encoding = "utf-8"
-vim.o.number = true
-vim.o.mouse = "a"
-vim.o.autoindent = true
-vim.o.tabstop = 3
-vim.o.shiftwidth = 3
-vim.o.smartindent = true
-vim.o.termguicolors = true
-vim.o.wrap = false
